@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+reachy-daemon.log
+cosmos-server.log
+media-cam.log
+media-aud.log
+.env
+.venv-cosmos/
+*.jpg
+*.swp
+*.swo
+*.sock
