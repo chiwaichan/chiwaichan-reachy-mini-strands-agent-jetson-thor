@@ -9,6 +9,8 @@ questions about IoT sensor data in an AWS data lake — speaks one short sentenc
 tears itself down. Idle is pure-local and **$0**: no cloud, no LLM tokens, just an
 offline wake-word listener.
 
+📝 **Write-up:** [Reachy Mini × Strands Agent on Jetson Thor](https://www.chiwaichan.co.nz/projects/reachy-mini-strands-agent-jetson-thor)
+
 > This is the `localllm` branch: the agent's brain defaults to a **local Nemotron
 > model via Ollama** ($0, offline) and the eyes are **NVIDIA Cosmos Reason 2**
 > running locally on the Thor GPU. Amazon Bedrock (Nova 2 Lite) remains an opt-in
